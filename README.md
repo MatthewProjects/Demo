@@ -33,27 +33,27 @@ Markup​
 
 «B4» HTML can be validated using validator without errors.
 
-«B5» There are tags in the markup for web page structuring: <header>, <main> and <footer>.
+«B5» There are tags in the markup for web page structuring: header, main and footer.
 
 «B6» The logo in the header and footer is a link with text, not an image.
 
-«B7» The <nav> tag is used only once, in the page header.
+«B7» The nav tag is used only once, in the page header.
 
-«B8» Contacts in the header (mail and phone) are outside the <nav> tag.
+«B8» Contacts in the header (mail and phone) are outside the nav tag.
 
-«B9» The <h1> tag is used once per page.
+«B9» The h1 tag is used once per page.
 
-«B10» An element with the text "Order a service" is a button with type ="button".
+«B10» An element with the text "Order a service" is a button with type = "button".
 
-«B11» Section headings are marked with <h2>.
+«B11» Section headings are marked with h2.
 
-«B12» All <img> tags have size attributes, at least width.
+«B12» All img tags have size attributes, at least width.
 
-«B13» All <img> tags have the alt attribute, which contains a brief description of what is shown in the picture.
+«B13» All img tags have the alt attribute, which contains a brief description of what is shown in the picture.
 
 «B14» Images are exported from the layout in jpg format.
 
-«B15» Groups of the same-type elements are in <ul> lists.
+«B15» Groups of the same-type elements are in ul lists.
 
-«B16» The <address> tag is only used in the footer.
+«B16» The address tag is only used in the footer.
 
