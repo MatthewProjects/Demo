@@ -1,14 +1,13 @@
 # demo
 Demo tutorial
-
-
+__________________
 
 Create a repository goit-markup-hw-01.
 Make HTML markup for the homework #1 page layout, without CSS styling.
 Set up GitHub Pages and add a link to the live page in the header of the GitHub repository.
-Criteria for work acceptance by the tutor
+Criteria for work acceptance by the tutor​
 
-Project
+Project​
 
 «A1» The main HTML file is called index.html.
 
@@ -24,7 +23,7 @@ Project
 
 «A7» The code is in line with the guide.
 
-Markup
+Markup​
 
 «B1» The Studio page layout is in the index.html file.
 
@@ -57,3 +56,4 @@ Markup
 «B15» Groups of the same-type elements are in <ul> lists.
 
 «B16» The <address> tag is only used in the footer.
+
